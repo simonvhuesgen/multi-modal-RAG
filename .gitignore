@@ -1,0 +1,11 @@
+# .gitignore
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+*.zip
+.env
+.DS_Store
+.idea/
+*.egg-info/
